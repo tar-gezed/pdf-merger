@@ -1,0 +1,5 @@
+{
+  "name": "Offline PDF Merger",
+  "description": "A secure, client-side application to merge multiple PDF files. All processing is done in your browser, ensuring your files never leave your computer.",
+  "requestFramePermissions": []
+}
