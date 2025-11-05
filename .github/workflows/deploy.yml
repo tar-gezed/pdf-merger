@@ -31,6 +31,5 @@ jobs:
           deploy_branch: gh-pages
           # The base-href for the project, should be the name of the repository.
           base_href: /pdf-merger/
-          # The folder where the built app is stored.
-          # Assumes the standard angular.json output path is `dist/pdf-merger`.
-          angular_dist_build_folder: dist/pdf-merger
+          # The folder where the built app is stored. The build output is in the 'dist' folder.
+          angular_dist_build_folder: dist
